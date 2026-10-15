@@ -8,17 +8,15 @@
 <h3 align="center">Tech Stack</h3>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=lua,python,git,github&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=lua,python,git,github&theme=light">
-    <img alt="Lua, Python, Git, GitHub" src="https://skillicons.dev/icons?i=lua,python,git,github">
-  </picture>
+  <img width="48" alt="Lua" src="https://skillicons.dev/icons?i=lua">
+  <img width="48" alt="Python" src="https://skillicons.dev/icons?i=python">
+  <img width="48" alt="Git" src="https://skillicons.dev/icons?i=git">
+  <img width="48" alt="GitHub" src="https://skillicons.dev/icons?i=github">
   <br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=githubactions,vscode,powershell,md&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=githubactions,vscode,powershell,md&theme=light">
-    <img alt="GitHub Actions, VS Code, PowerShell, Markdown" src="https://skillicons.dev/icons?i=githubactions,vscode,powershell,md">
-  </picture>
+  <img width="48" alt="GitHub Actions" src="https://skillicons.dev/icons?i=githubactions">
+  <img width="48" alt="VS Code" src="https://skillicons.dev/icons?i=vscode">
+  <img width="48" alt="PowerShell" src="https://skillicons.dev/icons?i=powershell">
+  <img width="48" alt="Markdown" src="https://skillicons.dev/icons?i=md">
 </p>
 
 <h3 align="center">Contact</h3>
